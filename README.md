@@ -1,6 +1,6 @@
 # PhoenixTelemetryRegistry
 
-**TODO: Add description**
+Telemetry Registry code for containing the telemetry events that Phoenix and Phoenix.LiveView utilize for discoverability.
 
 ## Installation
 
